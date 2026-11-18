@@ -1,0 +1,17 @@
+streamlit>=1.42
+Authlib>=1.3
+pandas
+numpy
+scipy
+pyarrow
+plotly
+anthropic
+python-docx
+pypdf
+python-dotenv
+openpyxl
+msal
+requests
+google-cloud-bigquery
+db-dtypes
+numbers-parser   # only for tools/build_registry.py
